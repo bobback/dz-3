@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+  <firstName>James</firstName>
+  <lastName>Smith</lastName>
+  <age>23</age>
+  <email>jsmith@gmail.com</email>
+  <phone>
+    <home>123-456-7890</home>
+    <mobile>093-342-5324</mobile>
+  </phone>
+  <address>
+    <street>18 Dwayne St</street>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <zip>04351</zip>
+  </address>
+  <gender>male</gender>
+  <major>
+    <name>Computer Science</name>
+    <degree>Master of Science</degree>
+  </major>
+  <classes>
+    <class>Introduction to Programming</class>
+    <class>Algorithms</class>
+    <class>Data Science</class>
+  </classes>
+  <grades>
+    <Introduction to Programming>4.9</Introduction to Programming>
+    <Algorithms>3.7</Algorithms>
+    <Data Science>3.5</Data Science>
+  </grades>
+  <children>
+    <child>
+      <name>Jessica</name>
+      <age>10</age>
+    </child>
+    <child>
+      <name>Stanley</name>
+      <age>7</age>
+    </child>
+    <child>
+      <name>Emma</name>
+      <age>5</age>
+    </child>
+  </children>
+</student>
