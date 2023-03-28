@@ -1,0 +1,33 @@
+student:
+firstName: James
+lastName: Smith
+age: 23
+email: jsmith@gmail.com
+phone:
+home: "123-456-7890"
+mobile: "093-342-5324"
+address:
+street: "18 Dwayne St"
+city: San Francisco
+state: CA
+zip: "04351"
+gender: male
+major:
+name: Computer Science
+degree: Master of Science
+classes:
+- Introduction to Programming
+- Algorithms
+- Data Science
+grades:
+Introduction to Programming: 4.9
+Algorithms: 3.7
+Data Science: 3.5
+children:
+
+name: Jessica
+age: 10
+name: Stanley
+age: 7
+name: Emma
+age: 5
